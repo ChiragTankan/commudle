@@ -1,71 +1,120 @@
-### [The further developed source code of this Rails project is now private. We've shifted the front end to the latest version of Angular under https://github.com/commudle/commudle-ng. You can continue making contributions to it!]
+### 🚨 Project Status
 
-# Commudle
+> **Backend source code is now private.**
+> The frontend has moved to **Angular (latest)** and is actively maintained here:
+> 👉 [https://github.com/commudle/commudle-ng](https://github.com/commudle/commudle-ng)
 
-## [https://www.commudle.com/](https://www.commudle.com/)
-
-This is a platform for all the tech communities around the world, which is focussed on managing the communities efficiently. It's a direct result of the personal experiences and feedbacks from different tech community organizers. The uniqueness lies in the process flows incorporated.
-
-Looking for contributions from the community and full time maintainers/contributors who can take this forward.
+✨ We welcome contributions to the frontend repository!
 
 ---
 
-### Index
-- [Why Commudle](#why-commudle)
-- [What makes this different](#what-makes-this-different)
-- **[How It Works](how-it-works.md)**
-- [Installation/Setup](project-setup.md)
-- [Contributions](contributions.md)
-- [Support & Communications](#support-and-communications)
-- [Code Of Conduct](code-of-conduct.md)
+# 🌍 Commudle
 
+🔗 **[https://www.commudle.com/](https://www.commudle.com/)**
+
+**Commudle** is an open platform designed to help **tech communities thrive** — from organizing events to nurturing long‑term engagement. Built from real-world experience, Commudle focuses on **how communities actually work**, not just how events are listed.
+
+It is crafted **by community organizers, for community organizers**, with workflows shaped by feedback, scale, and on-ground realities.
 
 ---
 
-## Why Commudle
- We have been able to successfully manage more than 5 events in the past 6 months with one of them having 2200+ registrations, >600 attendees, 6 tracks and 30+ speakers.
+## ✨ Why Commudle Exists
 
- We have about 5000 members signed up already!
- 
- The name's explaination remains a secret which we'll reveal soon. Till then, whenever we are oranizing tech events (which we believe for smaller communities is more about spreading awareness, sharing knowledge and networking), they are free. But as organizers, a lot of effort still goes in and yes, the members are always on the lookout for more and more events and things to learn.
+Running a tech community is rewarding — but it’s also hard.
 
-Taking from the personal experiences of how some well managed, free communities have evolved such that they are able to generate good excitement and footfall, we have tried to incorporate the process flows for the following till now:
-- Easy community & event setup and management
-  - Reusable forms
-  - Support for Multiple locations and Multiple Tracks
-- Centralizing the registration and shortlisting process
-  - Inbuilt forms
-  - One click status update for each registration
-  - RSVP emails where users can confirm
-  - Real time tracking of attendance by unique codes
-There's a lot of things coming up in the pipeline!
+Over the last **6 months**, Commudle has been used to:
 
----
+* 🎤 Organize **5+ large-scale tech events**
+* 👥 Manage **2200+ registrations** for a single event
+* 🧑‍💻 Host **600+ attendees**
+* 🧭 Run **6 parallel tracks**
+* 🎙 Coordinate **30+ speakers**
+* 🌐 Build a community of **5000+ registered members**
 
+These aren’t projections — they’re real numbers from real events.
 
-## What makes this different
-It's created to solve the problem of the creators. Being at a very stable yet young stage, it can be modified majorly to incorporate as many use cases for different communities across the world.
+The name **Commudle** has a story (we’ll reveal it soon 😉), but the mission is clear:
 
-We will soon be able to track actual ROI in terms of skills imparted by actually interacting with users automatically to track if they have been using the technologies introduced to them.
+> **Empower community organizers with structure, scale, and simplicity — without losing the human touch.**
 
-It's free to use, will always be!
+Events hosted on Commudle are **free for participants**, because community is about access and learning. Our goal is to make organizing those events **smooth, scalable, and sustainable**.
 
 ---
 
-## Support and communications
-- Mailing List (ask to join and we'll always say Yes): https://groups.google.com/d/forum/commudle
+## 🛠 What You Can Do with Commudle
 
-- Slack (join and ask for commudle channel access!): https://gdgndslackinvite.herokuapp.com/
-- Gitter (It's new for us, join and Introduce Yourself!): https://gitter.im/commudle/
+Commudle supports the **entire lifecycle** of community and event management.
 
+### 🏗 Community & Event Management
+
+* Create and manage communities with ease
+* Reusable, customizable forms
+* Support for **multiple locations**
+* Support for **multiple tracks per event**
+
+### 🧾 Registrations & Shortlisting
+
+* Centralized registration dashboard
+* Built-in registration forms
+* One-click approval / rejection workflows
+* Automated RSVP emails with confirmation
+* Real-time attendance tracking using unique access codes
+
+🚀 And this is just the beginning — more powerful features are actively being built.
 
 ---
 
-Summing it all up, we're looking at creating more and more projects soon, this being at the center of them all, you'll soon be able to host every project you create, with us!
+## 🌟 What Makes Commudle Different
+
+Most platforms focus on events. **Commudle focuses on organizers.**
+
+* Designed around real organizer workflows
+* Flexible architecture to support diverse communities
+* Stable enough for production, young enough to evolve fast
+
+### What’s Coming Next
+
+* 📊 Measuring **real ROI** of community events
+* 🧠 Tracking **skill adoption** after events
+* 🤝 Smarter post-event engagement with members
+
+💙 **Commudle is free to use — and it always will be.**
 
 ---
 
-[License](project-setup.md)
+## 🤝 Contribute & Get Involved
 
+We’re actively looking for:
 
+* Open-source contributors
+* Frontend maintainers (Angular)
+* Community champions & collaborators
 
+If you care about tech communities, you belong here.
+
+---
+
+## 💬 Support & Communication
+
+Join the conversation:
+
+* 📧 **Mailing List** (we always say yes):
+  [https://groups.google.com/d/forum/commudle](https://groups.google.com/d/forum/commudle)
+
+* 💬 **Slack** (request Commudle channel access):
+  [https://gdgndslackinvite.herokuapp.com/](https://gdgndslackinvite.herokuapp.com/)
+
+* 🗨 **Gitter** (introduce yourself):
+  [https://gitter.im/commudle/](https://gitter.im/commudle/)
+
+---
+
+## 🚀 The Road Ahead
+
+Commudle is becoming the **central hub for community-driven projects**. Soon, you’ll be able to host, manage, and grow every initiative you start — all in one place.
+
+Let’s build the future of tech communities, together. 🌱
+
+---
+
+📄 [License](project-setup.md)
